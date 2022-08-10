@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **TypeScript and React**
 
-- 👨‍💻 All of my projects are available [on this GitHub user](on this GitHub user)
+- 👨‍💻 All of my projects are available on this GitHub user
 
 - 📫 How to reach me **eldadligi@gmail.com**
 
