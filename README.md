@@ -1,6 +1,6 @@
 ![MasterHead](https://timelinecovers.pro/facebook-cover/download/html-header-code-facebook-cover.jpg)
 <h1 align="center">Hi there👋, I'm Eldad</h1>
-<h3 align="center">A Computer Science student with a passion to coding</h3>
+<h3 align="center">A Computer Science student with a passion for coding</h3>
 <img align="right" alt="Coding" width="300" src="https://c.tenor.com/s6eHxBGHvlIAAAAM/animation-cartoons.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eldadligishal&label=Profile%20views&color=0e75b6&style=flat" alt="eldadligishal" /> </p>
