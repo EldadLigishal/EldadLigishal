@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eldadligishal&label=Profile%20views&color=0e75b6&style=flat" alt="eldadligishal" /> </p>
 
-- 🔭 I’m currently looking for a **Student position**
+- 🔭 I’m currently looking for a **Software Engineer position**
 
-- 🌱 I’m currently learning **TypeScript and React**
+- 🌱 I’m currently learning **JavaScript and React**
 
 - 👨‍💻 All of my projects are available on this GitHub user
 
